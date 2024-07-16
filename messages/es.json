@@ -1,0 +1,8 @@
+{
+  "client": {
+    "text": "Hola mundo desde el cliente (click me to see how sending inside an event handler does not work)"
+  },
+  "server": {
+    "text": "Hola mundo desde el servidor"
+  }
+}

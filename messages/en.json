@@ -1,0 +1,8 @@
+{
+  "client": {
+    "text": "Hello world from client (click me to see how ingesting from inside an event handler does not work)"
+  },
+  "server": {
+    "text": "Hello world from server"
+  }
+}
